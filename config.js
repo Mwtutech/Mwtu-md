@@ -42,7 +42,7 @@ global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false" // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES || "https://telegra.ph/file/eecd5673d4d80563d645b.jpg" // BLACKPANTHER Theme Images
+global.userImages= process.env.USER_IMAGES || "*https://telegra.ph/file/b42cbd63877fd9d93e5ab.jpg" // BLACKPANTHER Theme Images
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -55,8 +55,8 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "923184474176,923xxxxx
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || "false"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254710772666,923xxxxxxxx";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,254710772666";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254710772666,254710772666";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://mac-scanner-d82e01b36359.herokuapp.com/";
@@ -74,10 +74,10 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.1",
   caption : process.env.CAPTION || "Mac-md2.0" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Mac",
+  author : process.env.PACK_AUTHER|| "Mr baraka",
   packname: process.env.PACK_NAME || "🐯",
-  botname : process.env.BOT_NAME  || "MAC MD",
-  ownername:process.env.OWNER_NAME|| "mac",
+  botname : process.env.BOT_NAME  || "BARAKA MD",
+  ownername:process.env.OWNER_NAME|| "Mr baraka",
 
 
   errorChat : process.env.ERROR_CHAT || "",
@@ -93,7 +93,7 @@ module.exports = {
   aitts_Voice_Id : process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY  || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "private",
-  LANG: ( process.env.THEME ||  "GOKU"  ).toUpperCase(),
+  LANG: ( process.env.THEME ||  "ADAM"  ).toUpperCase(),
 
 
 
