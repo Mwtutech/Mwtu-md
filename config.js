@@ -42,7 +42,7 @@ global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false" // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES || "*https://telegra.ph/file/b42cbd63877fd9d93e5ab.jpg" // BLACKPANTHER Theme Images
+global.userImages= process.env.USER_IMAGES || "*https://telegra.ph/file/dcd8bd763a3c7c3928405.jpg" // BLACKPANTHER Theme Images
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -59,7 +59,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,254710772666";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254710772666,254710772666";
 
 global.api_smd = "https://api-smd-1.vercel.app"
-global.scan = "https://Baraka-scanner-d82e01b36359.herokuapp.com/";
+global.scan = "https://baraka-md-af3e38f6851a.herokuapp.com/";
 
 
 global.SESSION_ID = process.env.SESSION_ID ||  "" ;
