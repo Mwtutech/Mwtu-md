@@ -148,12 +148,12 @@
     "STACK": {
       "description": "STACK NAME ",
       "value": "container | heroku-22 | 4246315815290786|01|2026|717",
-      "required": false 
-    }
-  }, 
-  "addons": [{ "plan": "heroku-postgresql:basic" }],
-  "buildpacks": [
-    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
-    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
-  ]
-}
+"required": false
+      }
+    },
+    "addons": [{ "plan": "heroku-postgresql:essential-0" }],
+    "buildpacks": [
+      { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
+      { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
+    ]
+  }
