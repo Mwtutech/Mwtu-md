@@ -1,7 +1,7 @@
 {
-  "name": "BARAKA MD",
-  "description": "Hi there, I am Mac Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255762190568,255679513639 +254710772666",
-  "logo": "https://telegra.ph/file/b42cbd63877fd9d93e5ab.jpg",
+  "name": "NJUBA-MD",
+  "description": "Hi there, I am njuba Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255762190568,255679513639 +254710772666",
+  "logo": "https://telegra.ph/file/c34d601c0295aa2eb1a92.jpg",
   "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Bot Owner Name",    
-      "value": "Mr baraka",
+      "value": "Mr njuba",
       "required" :true
     },   
     
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " Name Of Bot",
       "required" :true,    
-      "value": "𝘽𝘼𝙍𝘼𝙆𝘼-𝙈𝘿"
+      "value": "NJUBA-MD"
     }, 
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
       "required" :true,    
-      "value": "https://telegra.ph/file/b42cbd63877fd9d93e5ab.jpg"
+      "value": "https://telegra.ph/file/c34d601c0295aa2eb1a92.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :true,    
-      "value": "Africa/Tanzania"
+      "value": "Africa/Uganda"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responding (After deployement!)",
@@ -107,7 +107,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "255762190568,255679513639,254710772666,254739937062"
+      "value": "+256766763966,256742477536,254710772666,254739937062"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -137,7 +137,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Mr baraka",
+      "value": "Mr njuba",
       "required": true 
     },
     "PACK_AUTHER": {
