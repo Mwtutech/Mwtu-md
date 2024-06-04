@@ -18,9 +18,9 @@ global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
 global.github=process.env.GITHUB|| "https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y";
-global.website=process.env.GURL || "https://chat.whatsapp.com/GoPZhE9zc6Y3ul0RnD4HXw" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/b42cbd63877fd9d93e5ab.jpg" ; // SET LOGO FOR IMAGE 
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaZDD8S2UPBDHMF7rq3C";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaZDD8S2UPBDHMF7rq3C" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/c34d601c0295aa2eb1a92.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -42,14 +42,14 @@ global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false" // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES || "*https://telegra.ph/file/dcd8bd763a3c7c3928405.jpg" // BLACKPANTHER Theme Images
+global.userImages= process.env.USER_IMAGES || "*https://telegra.ph/file/c34d601c0295aa2eb1a92.jpg" // BLACKPANTHER Theme Images
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
 global.readmessage = process.env.READ_MESSAGE || "false"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "923184474176,923xxxxxxxx";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "25471077266";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
@@ -59,7 +59,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,254710772666";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254710772666,254710772666";
 
 global.api_smd = "https://api-smd-1.vercel.app"
-global.scan = "https://baraka-md-af3e38f6851a.herokuapp.com/";
+global.scan = "https://a-af3e38f6851a.herokuapp.com/";
 
 
 global.SESSION_ID = process.env.SESSION_ID ||  "" ;
@@ -72,12 +72,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.1",
-  caption : process.env.CAPTION || "BARAKA-XMD✅" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "NJUBA-MD✅" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Mr baraka",
+  author : process.env.PACK_AUTHER|| "Mr njuba",
   packname: process.env.PACK_NAME || "🐯",
-  botname : process.env.BOT_NAME  || "BARAKA MD",
-  ownername:process.env.OWNER_NAME|| "Mr baraka",
+  botname : process.env.BOT_NAME  || "NJUBA-MD",
+  ownername:process.env.OWNER_NAME|| "Mr njuba",
 
 
   errorChat : process.env.ERROR_CHAT || "",
