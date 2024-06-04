@@ -12,5 +12,7 @@
 
 [qr code](https://njuba-md-d0e4fe16a6f8.herokuapp.com/qr)
 
+[Tap here deploy on heroku](https://dashboard.heroku.com/new?template=https://github.com/IBRAHIM-TECH-AI/NJUBA-MD/tree/main)
+
 
 ## Best wabot
