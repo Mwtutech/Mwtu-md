@@ -18,9 +18,9 @@ global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
 global.github=process.env.GITHUB|| "https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaZDD8S2UPBDHMF7rq3C";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaZDD8S2UPBDHMF7rq3C" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/c34d601c0295aa2eb1a92.jpg" ; // SET LOGO FOR IMAGE 
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/5f106289f3017ec491934.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -42,7 +42,7 @@ global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false" // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES || "*https://telegra.ph/file/c34d601c0295aa2eb1a92.jpg" // BLACKPANTHER Theme Images
+global.userImages= process.env.USER_IMAGES || "*https://telegra.ph/file/5f106289f3017ec491934.jpg" // BLACKPANTHER Theme Images
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -72,12 +72,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.1",
-  caption : process.env.CAPTION || "NJUBA-MD✅" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "MWTU-MD✅" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Mr njuba",
+  author : process.env.PACK_AUTHER|| "Mr MWTU",
   packname: process.env.PACK_NAME || "🐯",
-  botname : process.env.BOT_NAME  || "NJUBA-MD",
-  ownername:process.env.OWNER_NAME|| "Mr njuba",
+  botname : process.env.BOT_NAME  || "MWTU-MD",
+  ownername:process.env.OWNER_NAME|| "Mr MWTU",
 
 
   errorChat : process.env.ERROR_CHAT || "",
