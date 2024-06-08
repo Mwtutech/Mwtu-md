@@ -6,6 +6,7 @@
 
 [Deployment]
 
+[fork the repo](https://github.com/Mwtutech/Mwtu-md/FORK) 
 
 [Pairing code](https://njuba-md-d0e4fe16a6f8.herokuapp.com/pair)
 
@@ -15,4 +16,4 @@
 [Tap here deploy on heroku](https://dashboard.heroku.com/new?template=https://github.com/IBRAHIM-TECH-AI/MWTU-MD/tree/main)
 
 
-## Best wabot
+## Best wabot created by mwtutech🤝
