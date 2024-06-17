@@ -6,7 +6,7 @@
 
 [Deployment]
 
-[fork the repo]_(https://github.com/Mwtutech/Mwtu-md/fork) 
+ 
 
 [Pairing code](https://njuba-md-d0e4fe16a6f8.herokuapp.com/pair)
 
