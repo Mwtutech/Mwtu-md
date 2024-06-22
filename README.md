@@ -42,7 +42,7 @@
 
 2. Get Session ID (By pairing code)
    > 
-     <a href='https://topu-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://Mwtu-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 3. Deploy on heroku
@@ -77,7 +77,7 @@ HOW TO REACH THE OWNER?
    <a href="https://wa.me+254716490732">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a
+   
 
     ## Ask any thing
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -85,7 +85,7 @@ HOW TO REACH THE OWNER?
 
 
 
-##)
+
 
 
 
