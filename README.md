@@ -1,6 +1,8 @@
+# `Mwtu-MD`
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> MWTU 𝚳d </h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF816400&random=false&width=435&lines=Am+Mwtu+md;A+simple+whatsapp+bot;With+rich+features+;Created+by+Mwtu+Tech;Fork+the+respiratory+%F0%9F%98%8A;Give+it+a+star%F0%9F%8C%9F+;Proceed+to+deployment%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
