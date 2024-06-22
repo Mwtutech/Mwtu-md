@@ -1,5 +1,5 @@
 11
-<img alt="venocyber docs" height="300" src="https://telegra.ph/file/5f106289f3017ec491934.jpg">  
+<img alt="venocyber docs" height="300" src="https://telegra.ph/file/f7734019049f6985d41ef.jpg">  
 
 
 ## MWTU-MD
