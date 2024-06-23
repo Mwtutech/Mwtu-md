@@ -13,7 +13,16 @@
 </p>
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/f7734019049f6985d41ef.jpg" alt="01" border="0" /></a>      
- 
+
+ <p align="center">
+  <a href="https://github.com/Mwtutech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Cod3Uchiha?label=Followers&style=social"></a>
+  <a href="https://github.com/Mwtutech/Mwtu-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Cod3Uchiha/TKM-bot?&style=social"></a>
+  <a href="https://github.com/Mwtutech/Mwtu-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Cod3Uchiha/TKM-bot?style=social"></a>
+  <a href="https://github.com/Mwtutech/Mwtu-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Cod3Uchiha/TKM-bot?label=Watching&style=social"></a>
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -131,3 +140,17 @@ Enjoy Bot features of the *MWTU-MD*  to enhance your Whatsapp more enjoyable
 <p align="center">
 <a href="https://github.com/Mwtutech"><img src="https://telegra.ph/file/9656944885d1ecff36eed.jpg" height="350" alt="Cod3Uchiha"/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## Repo Stats 🔭
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Mwtutech&repo=Mwtu-md&theme=chartreuse-dark)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+---------
+
+## <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/octocat-anime.gif" alt="Github" width="44" height="44"> Github Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Mwtutech&show_icons=true&theme=chartreuse-dark)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwtutech&layout=compact&theme=chartreuse-dark)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+--------
