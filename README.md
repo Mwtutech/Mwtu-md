@@ -12,7 +12,8 @@
 <p align="center"> Introducing Mwtu Md, A Simple WhatsApp user BOT, Created by Mwtu Tech.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/f7734019049f6985d41ef.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/f7734019049f6985d41ef.jpg" alt="01" border="0" /></a>      
+ 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -124,8 +125,9 @@ Enjoy Bot features of the *MWTU-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Mwtu Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 **DEVELOPER**
 
 <p align="center">
-<a href="https://github.com/Mwtutech"><img src="https://telegra.ph/file/9656944885d1ecff36eed.jpg" height="400" alt="Cod3Uchiha"/></a>
+<a href="https://github.com/Mwtutech"><img src="https://telegra.ph/file/9656944885d1ecff36eed.jpg" height="350" alt="Cod3Uchiha"/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
