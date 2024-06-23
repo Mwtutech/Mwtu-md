@@ -1,6 +1,6 @@
 {
   "name": "MWTU-MD",
-  "description": "Hi there, I am njuba Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255762190568,255679513639 +254710772666",
+  "description": "Hi there, I am Mwtu Md Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 254716490732, 254717117386",
   "logo": "https://telegra.ph/file/5f106289f3017ec491934.jpg",
   "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
   "success_url": "/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Bot Owner Name",    
-      "value": "Mr Mwtu",
+      "value": "MWTU TECH",
       "required" :true
     },   
     
@@ -32,7 +32,7 @@
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
       "required" :true,    
-      "value": "https://telegra.ph/file/5f106289f3017ec491934.jpg"
+      "value": "https://telegra.ph/file/f7734019049f6985d41ef.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
