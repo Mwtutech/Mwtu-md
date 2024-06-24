@@ -113,12 +113,12 @@ The *Mwtu-md* is released under the [MIT License](https://opensource.org/license
 Enjoy Bot features of the *MWTU-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Mwtu Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9BF7F4&random=false&width=435&lines=THANK+YOU+FOR+CHOOSING+MWTU+MD%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
 **DEVELOPER**
 
 <p align="center">
-<a href="https://github.com/Mwtutech"><img src="https://telegra.ph/file/9656944885d1ecff36eed.jpg" height="350" alt="Cod3Uchiha"/></a>
+<a href="https://github.com/Mwtutech"><img src="https://telegra.ph/file/9656944885d1ecff36eed.jpg" height="300" alt="Cod3Uchiha"/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Repo Stats 🔭
