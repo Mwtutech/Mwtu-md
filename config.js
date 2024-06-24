@@ -20,13 +20,13 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
 global.github=process.env.GITHUB|| "https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/5f106289f3017ec491934.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/f7734019049f6985d41ef.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
 global.devs = "254710772666" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254710772666";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254716490732";
 
 
 
@@ -56,7 +56,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "25471077266";
 global.read_status = process.env.AUTO_READ_STATUS || "false"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,254710772666";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254710772666,254710772666";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254716490732";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://a-af3e38f6851a.herokuapp.com/";
