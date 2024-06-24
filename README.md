@@ -6,9 +6,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=597&pause=1000&color=70F772&random=false&width=435&lines=Mwtu+Md+is+created+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 <p align="center"> Introducing Mwtu Md, A Simple WhatsApp user BOT, Created by Mwtu Tech.
 </p>
 
