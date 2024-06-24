@@ -1,7 +1,7 @@
 {
   "name": "MWTU-MD",
   "description": "Hi there, I am Mwtu Md Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 254716490732, 254717117386",
-  "logo": "https://telegra.ph/file/5f106289f3017ec491934.jpg",
+  "logo": "https://telegra.ph/file/f7734019049f6985d41ef.jpg",
   "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr",
@@ -107,7 +107,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "254716490732,254710772666,254739937062"
+      "value": "254716490732,254717117386"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
