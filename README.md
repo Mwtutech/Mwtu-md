@@ -22,7 +22,7 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
--
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
 
 
@@ -40,7 +40,7 @@
 
 2. Get Session ID (By pairing code)
    > 
-     <a href='https://Mwtu-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://mwtu-scanner.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 3. Deploy on heroku
