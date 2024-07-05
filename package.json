@@ -71,8 +71,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/mwtutechInfo/mwtu-Md.git"
+      "url": "git+https://github.com/mwtutech/mwtu-Md.git"
    },
-   "bugs": { "url": "https://github.com/MwtutechInfo/mwtu-Md/issues" },
-   "homepage": "https://github.com/mwtutechInfo/mwtu-Md#readme"
+   "bugs": { "url": "https://github.com/Mwtutech/mwtu-Md/issues" },
+   "homepage": "https://github.com/mwtutech/mwtu-Md#readme"
 }
