@@ -56,7 +56,7 @@ Please Use Node Version Higher to Get The Best Performance.
 ## Support 
 ## Join my channel for updates and get free cc and more
 <a href="https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@ HOW TO REACH THE OWNER?
  
    
    <a href="https://api.whatsapp.com/send?phone=254716490732&text=Hey+Mwtu+help">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
   </a>&nbsp;&nbsp;
    
 
@@ -118,7 +118,7 @@ Enjoy Bot features of the *MWTU-MD*  to enhance your Whatsapp more enjoyable
 **DEVELOPER**
 
 <p align="center">
-<a href="https://github.com/Mwtutech"><img src="https://telegra.ph/file/9656944885d1ecff36eed.jpg" height="300" alt="Cod3Uchiha"/></a>
+<a href="https://github.com/Mwtutech"><img src="https://telegra.ph/file/9656944885d1ecff36eed.jpg" height="200" alt="Mwtutech"/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Repo Stats 🔭
