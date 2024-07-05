@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node beltah.js",
-    "beltah": "pm2 start beltah.js --attach --max-memory-restart 490M",
+    "beltah": "pm2 start Mwtu.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
