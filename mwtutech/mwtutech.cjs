@@ -290,7 +290,7 @@ exports.smsg = (conn, m, store) => {
 		* @returns 
 	   */
             m.quoted.copyNForward = (jid, forceForward = false, options = {}) => conn.copyNForward(jid, vM, forceForward, options)
-/* 𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗 𝗩𝟱 */
+/* MWTU-MD V2 */
             /**
               *
               * @returns
