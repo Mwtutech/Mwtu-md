@@ -40,7 +40,7 @@ async function videoToWebp (media) {
     const tmpFileIn = path.join(tmpdir(), `${Crypto.randomBytes(6).readUIntLE(0, 6).toString(36)}.mp4`)
           /* MWTU-MD V2 */
     fs.writeFileSync(tmpFileIn, media)
-                                 /* 𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗 𝗩𝟱 */
+                                 /* MWTU-MD V2 */
     await new Promise((resolve, reject) => {
         ff(tmpFileIn)
             .on("error", reject)
@@ -119,7 +119,7 @@ async function writeExif (media, metadata) {
     const tmpFileIn = path.join(tmpdir(), `${Crypto.randomBytes(6).readUIntLE(0, 6).toString(36)}.webp`)
     const tmpFileOut = path.join(tmpdir(), `${Crypto.randomBytes(6).readUIntLE(0, 6).toString(36)}.webp`)
     fs.writeFileSync(tmpFileIn, wMedia)
-     /* 𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗 𝗩𝟱 */
+     /* MWTU-MD V2 */
     if (metadata.packname || metadata.author) {
         const img = new webp.Image()
         const json = { "sticker-pack-id": `https://github.com/DikaArdnt/Hisoka-Morou`, "sticker-pack-name": metadata.packname, "sticker-pack-publisher": metadata.author, "emojis": metadata.categories ? metadata.categories : [""] }
