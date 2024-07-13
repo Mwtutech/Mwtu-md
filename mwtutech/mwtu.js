@@ -99,7 +99,7 @@ function serialize(m, sock, logger) {
       }
     }
   });
-/* 𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗 𝗩𝟱 */
+/* MWTU-MD V2 */
   // Define the getName function
   sock.getName = (jid, withoutContact = false) => {
     jid = sock.decodeJid(jid);
@@ -186,7 +186,7 @@ function serialize(m, sock, logger) {
    * @returns 
    */
   sock.sendPoll = (jid, name = '', values = [], selectableCount = 1) => { return sock.sendMessage(jid, { poll: { name, values, selectableCount } }) }
-/* 𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗 𝗩𝟱 */
+/* MWTU-MD V2 */
   /**
    * 
    * @param {*} jid 
