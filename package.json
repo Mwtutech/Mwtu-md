@@ -6,9 +6,9 @@
   "type": "module",
   "engines" : { "node": "v22.4.0", "npm": "10.8.1" },
   "scripts": {
-    "start": "pm2 start mwtu/mwtu.js --deep-monitoring --attach --name gifted",
-    "stop": "pm2 stop gifted",
-    "restart": "pm2 restart gifted"
+    "start": "pm2 start mwtu/mwtu.js --deep-monitoring --attach --name mwtu",
+    "stop": "pm2 stop mwtu",
+    "restart": "pm2 restart mwtu"
   },
   "keywords": ["mwtu-md", "whatsapp-bot", "mwtu-tech"],
   "author": "Mwtu Tech",
@@ -69,8 +69,8 @@
     "ytdl-core": "^4.11.5"
    },
      "directories": {
-      "lib": "gift",
-      "plugins": "gifted/cmds"
+      "lib": "mwtutech",
+      "plugins": "mwtu/cmds"
    },
    "devDependencies": {
       "pino": "^7.0.5"
