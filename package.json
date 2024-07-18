@@ -1,23 +1,24 @@
 {
   "name": "mwtu-md",
-  "version": "22.4.0",
-  "description": "Mwtu multi device whatsapp bot",
+  "version": "5.0.0",
+  "description": "mwtu latest multi device whatsapp bot",
   "main": "./mwtu/mwtu.js",
   "type": "module",
-  "engines" : { "node": "v22.4.0", "npm": "10.8.1" },
+  "engines" : { "node": "v20.15.0", "npm": "10.8.1" },
   "scripts": {
     "start": "pm2 start mwtu/mwtu.js --deep-monitoring --attach --name mwtu",
     "stop": "pm2 stop mwtu",
     "restart": "pm2 restart mwtu"
   },
-  "keywords": ["mwtu-md", "whatsapp-bot", "mwtu-tech"],
+  "keywords": ["mwtu-md", "whatsapp-bot", "Mwtu-tech"],
   "author": "Mwtu Tech",
   "license": "GNU",
   "dependencies": {
+    "@distube/ytdl-core": "^4.13.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google/generative-ai": "^0.9.0",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
+    "@whiskeysockets/baileys": "git+https://github.com/mouricedevs/Gifted-Baileys.git",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.8.3",
     "aptoide-scraper": "^1.0.1",
@@ -46,7 +47,8 @@
     "libphonenumber": "^0.0.10",
     "mfiredlcore-vihangayt": "^1.0.0",
     "moment-timezone": "^0.5.45",
-    "nayan-media-downloader": "^2.3.3",
+    "nayan-media-downloader": "^2.4.3",
+    "nayan-server": "^2.3.8",
     "node-cache": "^5.1.2",
     "node-cron": "^3.0.3",
     "node-fetch": "^3.3.2",
@@ -69,18 +71,18 @@
     "ytdl-core": "^4.11.5"
    },
      "directories": {
-      "lib": "mwtutech",
-      "plugins": "mwtu/cmds"
+      "lib": "gift",
+      "plugins": "gifted/cmds"
    },
    "devDependencies": {
       "pino": "^7.0.5"
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Mwtutech/Mwtu-Md.git"
+      "url": "git+https://github.com/mwtutech/mwtu-Md.git"
    },
    "bugs": {
-      "url": "https://github.com/Mwtutech/Mwtu-Md/issues"
+      "url": "https://github.com/Mwtutech/mwtu-Md/issues"
    },
-   "homepage": "https://github.com/Mwtutech/Mwtu-Md#readme"
+   "homepage": "https://github.com/Mwtutech/mwtu-Md#readme"
 }
