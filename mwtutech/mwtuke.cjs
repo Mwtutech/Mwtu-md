@@ -10,7 +10,7 @@ async function doReact(emoji, mek, gss) {
         key: mek.key,
       },
     };
-                                                                  /* 𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗 𝗩𝟱 */
+                                                                  /* MWTU-MD V2 */
     await gss.sendMessage(mek.key.remoteJid, react);
   } catch (error) {
     console.error('Error sending auto reaction:', error);
