@@ -8,7 +8,7 @@ const { spawn } = require('child_process')
 function ffmpeg(buffer, args = [], ext = '', ext2 = '') {
   return new Promise(async (resolve, reject) => {
     try {
-      let tmp = path.join(__dirname, '../mwtutech', + new Date + '.' + ext)
+      let tmp = path.join(__dirname, '../mwtu', + new Date + '.' + ext)
       let out = tmp + '.' + ext2
       await fs.promises.writeFile(tmp, buffer)
       spawn(ffmpegPath, [
