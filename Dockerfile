@@ -1,6 +1,3 @@
-# Don't change this [ /GiftedTech/ ] name!
-# Change from below link, else bot wil not work!
-
 FROM node:lts-buster
 
 RUN apt-get update && \
@@ -9,11 +6,16 @@ RUN apt-get update && \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
+  npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
+  
+RUN git clone https://github.com/Airforce254/SCENE-MD  /root/Zokou_BOt
+WORKDIR /root/Zokou_Bot/
+
 
 COPY package.json .
-
-RUN npm i && npm i -g qrcode-terminal
+RUN npm install pm2 -g
+RUN npm install --legacy-peer-deps
 
 COPY . .
 
