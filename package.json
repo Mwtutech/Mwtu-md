@@ -6,7 +6,7 @@
   "type": "module",
   "engines" : { "node": "v20.15.0", "npm": "10.8.1" },
   "scripts": {
-    "start": "pm2 start mwtu/mwtu.js --deep-monitoring --attach --name mwtu",
+    "start": "pm2 start mwtu/mwtu.js --deep-monitoring --attach --name mwt",
     "stop": "pm2 stop mwtu",
     "restart": "pm2 restart mwtu"
   },
