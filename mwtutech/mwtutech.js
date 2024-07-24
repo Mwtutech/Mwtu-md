@@ -207,7 +207,7 @@ function serialize(m, sock, logger) {
     let type = '', mimetype = mime, pathFile = filename
     if (options.asDocument) type = 'document'
     if (options.asSticker || /webp/.test(mime)) {
-      let { writeExif } = require('./gift/giftedte')
+      let { writeExif } = require('./mwtutech/mwtute')
       let media = { mimetype: mime, data }
       pathFile = await writeExif(media, { packname: options.packname ? options.packname : global.packname, author: options.author ? options.author : global.author, categories: options.categories ? options.categories : [] })
       await fs.promises.unlink(filename)
