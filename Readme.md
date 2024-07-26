@@ -36,9 +36,9 @@ CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
  - FORK THE REPL THEN HIT RUN BUTTON
 
   ###### <summary>THROUGH Termux</summary>
-  CLICK HERE. [`TRMX`](href='https://github.com/Mwtutech/mwtu-sessions)
+  CLICK HERE.[`TRMX`](href='https://github.com/Mwtutech/mwtu-sessions)
   
-- FOLLOW THE STEPS CAREFULLY TO GET SESSION ID VIA TERMUX
+   - FOLLOW THE STEPS CAREFULLY
 
 
   
@@ -95,7 +95,6 @@ Contributions to *Mwtu-Md* are welcome! If you have ideas for new features, impr
 # Security Notice
 Mwtu Md is safe for your WhatsApp and heroku
 
-## Reporting a Vulnerability
 
 
 ## powered by Mwtu Tech
