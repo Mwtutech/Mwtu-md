@@ -30,12 +30,14 @@
 
 
 2. Get Session ID (By pairing code)
-   > [`OUTPUT`]
-  [
-   > [RUN RPL]
-     <a href='https://replit.com/@mistarkelvin/mwtu-sessions?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-[-TERMUX [ RUN VIA TERMUX.[`OUTPUT`] ]
-[
+   
+  <summary>RUN REPL</summary>
+ - CLICK HERE [`OUTPUT`]
+     <a (https://replit.com/@mistarkelvin/mwtu-sessions?v=1) target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/OUTPUT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <summary>TERMUX</summary>
+     
+-TERMUX [ RUN VIA TERMUX.[`OUTPUT`] 
+
 - Here's Termux [`OUTPUT`](https://github.com/mwtutech/mwtu-sessions/blob/main/screenshots/output-demo.jpg)
 
 - Upload Files on Replit and Run.
@@ -131,7 +133,7 @@ npm start
 Works for All Secktor-Based/A-17 Based/ Whiskeysockets Bailey's Bots
 - Thanks for Using This Tool
 - Join my [`WhatsApp Channel`](https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F) for Daily Tech Updates
-- You can customise it according to your needs but don't forget to give credits.]
+- You can customise it according to your needs but don't forget to give creditS
 
 
 3. Deploy on heroku
