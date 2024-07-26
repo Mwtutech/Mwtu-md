@@ -34,8 +34,11 @@
 a.  <summary>RUN REPL</summary>
  - CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
  - FORK THE REPL THEN HIT RUN BUTTON
-   
-   b.  <summary>TERMUX</summary>[
+
+  Via Termux
+  <a
+  href="
+    <summary>TERMUX</summary>[
      
 -TERMUX [ RUN VIA TERMUX [`OUTPUT`](
 - Here's Termux [`OUTPUT`](https://github.com/mwtutech/mwtu-sessions/blob/main/screenshots/output-demo.jpg)
@@ -103,7 +106,7 @@ node mwtukvn.js
 > Or Simply:
 ```
 npm start
-```
+```"
 
 
 
