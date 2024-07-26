@@ -37,7 +37,7 @@
    
    2.  <summary>TERMUX</summary>[
      
--TERMUX [ RUN VIA TERMUX.[`OUTPUT`] 
+-TERMUX [ RUN VIA TERMUX.[`OUTPUT`](<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>)
 
 - Here's Termux [`OUTPUT`](https://github.com/mwtutech/mwtu-sessions/blob/main/screenshots/output-demo.jpg)
 
@@ -127,7 +127,7 @@ or simply:
 
 ```
 npm start
-```]
+```
 
 
 3. Deploy on heroku
