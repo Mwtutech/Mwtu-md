@@ -31,10 +31,11 @@
 
 2. Get Session ID (By pairing code)
    
-  <summary>RUN REPL</summary>
- - CLICK HERE.[`OUTPUT`] 
- -(https://replit.com/@mistarkelvin/mwtu-sessions?v=1) target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/OUTPUT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-     <summary>TERMUX</summary>
+1.  <summary>RUN REPL</summary>
+ - CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
+ - FORK THE REPL THEN HIT RUN BUTTON
+   
+   2.  <summary>TERMUX</summary>[
      
 -TERMUX [ RUN VIA TERMUX.[`OUTPUT`] 
 
@@ -126,14 +127,7 @@ or simply:
 
 ```
 npm start
-```
-
-
-*NB:*
-Works for All Secktor-Based/A-17 Based/ Whiskeysockets Bailey's Bots
-- Thanks for Using This Tool
-- Join my [`WhatsApp Channel`](https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F) for Daily Tech Updates
-- You can customise it according to your needs but don't forget to give creditS
+```]
 
 
 3. Deploy on heroku
