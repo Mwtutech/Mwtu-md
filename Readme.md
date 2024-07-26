@@ -23,7 +23,7 @@
 
 #### SETUP
 
-# 1. Fork the repo (*A MUST*)
+1. Fork the repo (*A MUST*)
     <br>
 <a href='https://github.com/Mwtutech/Mwtu-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
@@ -31,11 +31,11 @@
 
 2. Get Session ID (By pairing code)
    
-# <summary>TROUGH REPL</summary>
+###### <summary>TROUGH REPL</summary>
 CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
  - FORK THE REPL THEN HIT RUN BUTTON
 
-  # <summary>Through Termux</summary>
+  ###### <summary>Through Termux</summary>
   -CLICK HERE [`SENSION ID TRMX`](href='https://github.com/Mwtutech/mwtu-sessions)
 
 
