@@ -36,7 +36,7 @@ CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
  - FORK THE REPL THEN HIT RUN BUTTON
 
   ###### <summary>Through Termux</summary>
-  -CLICK HERE [`SENSION ID TRMX`](href='https://github.com/Mwtutech/mwtu-sessions)
+  -CLICK HERE. [`SENSION TRMX`](href='https://github.com/Mwtutech/mwtu-sessions)
 
 
 
