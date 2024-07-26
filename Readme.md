@@ -37,7 +37,8 @@ CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
 
   ###### <summary>THROUGH Termux</summary>
   CLICK HERE. [`TRMX`](href='https://github.com/Mwtutech/mwtu-sessions)
--FOLLOW THE STEPS CAREFULLY TO GET SESSION ID VIA TERMUX
+  
+- FOLLOW THE STEPS CAREFULLY TO GET SESSION ID VIA TERMUX
 
 
   
