@@ -32,8 +32,8 @@
 2. Get Session ID (By pairing code)
    
   <summary>RUN REPL</summary>
- - CLICK HERE [`OUTPUT`]
-     <a (https://replit.com/@mistarkelvin/mwtu-sessions?v=1) target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/OUTPUT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+ - CLICK HERE.[`OUTPUT`] 
+ -(https://replit.com/@mistarkelvin/mwtu-sessions?v=1) target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/OUTPUT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
      <summary>TERMUX</summary>
      
 -TERMUX [ RUN VIA TERMUX.[`OUTPUT`] 
