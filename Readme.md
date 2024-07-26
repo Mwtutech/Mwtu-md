@@ -31,105 +31,15 @@
 
 2. Get Session ID (By pairing code)
    
-a.  <summary>RUN REPL</summary>
+###  <summary>RUN REPL</summary>
  - CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
  - FORK THE REPL THEN HIT RUN BUTTON
 
   Via Termux
   <a
-  href="
-    <summary>TERMUX</summary>[
-     
--TERMUX [ RUN VIA TERMUX [`OUTPUT`](
-- Here's Termux [`OUTPUT`](https://github.com/mwtutech/mwtu-sessions/blob/main/screenshots/output-demo.jpg)
-
- 
-- Run on Termux/Linux/Pc/Terminal using Below Commands one after the other.
-- First Download Termux Android App [`HERE`](https://f-droid.org/repo/com.termux_118.apk)
-  (Termux will take 1.35GB of your device storage for full set up so ensure you've got enough space):
-
-```
-termux-setup-storage
-```
-```
-apt update
-```
-```
-apt upgrade
-```
-```
-pkg update && pkg upgrade
-```
-```
-pkg install python -y
-```
-```
-pkg install python2 -y
-```
-```
-pkg install bash -y
-```
-```
-pkg install libwebp -y
-```
-```
-pkg install git -y
-```
-```
-pkg install nodejs -y
-```
-```
-pkg install ffmpeg -y
-```
-```
-pkg install wget -y
-```
-```
-pkg install imagemagick -y
-```
-
-- Running the Session Generator:
-```
-git clone https://github.com/mwtutech/mwtu-sessions
-```
-```
-cd mwtu-sessions
-```
-```
-npm install
-```
-
-- Getting Pairing Code and Session ID:
-```
-node mwtukvn.js
-```
-> Or Simply:
-```
-npm start
-```"
-
-
-
-After completing the process and exiting Termux anytime you want to get another session ID just reuse below cmds:
-
-```
-cd mwtu-sessions
-```
-
-then:
-
-```
-node mwtukvn.js
-```
-
-or simply:
-
-```
-npm start
-```)
-
-
-3. Deploy on heroku
+  href='https://github.com/Mwtutech/mwtu-sessions'
+  
+  3. Deploy on heroku
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Mwtutech/Mwtu-md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=black'/></a>
 
