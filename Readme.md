@@ -31,19 +31,15 @@
 
 2. Get Session ID (By pairing code)
    
-1.  <summary>RUN REPL</summary>
+a.  <summary>RUN REPL</summary>
  - CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
  - FORK THE REPL THEN HIT RUN BUTTON
    
-   2.  <summary>TERMUX</summary>[
+   b.  <summary>TERMUX</summary>[
      
--TERMUX [ RUN VIA TERMUX.[`OUTPUT`](<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>)
-
+-TERMUX [ RUN VIA TERMUX [`OUTPUT`](
 - Here's Termux [`OUTPUT`](https://github.com/mwtutech/mwtu-sessions/blob/main/screenshots/output-demo.jpg)
 
-- Upload Files on Replit and Run.
-
-> OR
  
 - Run on Termux/Linux/Pc/Terminal using Below Commands one after the other.
 - First Download Termux Android App [`HERE`](https://f-droid.org/repo/com.termux_118.apk)
@@ -127,7 +123,7 @@ or simply:
 
 ```
 npm start
-```
+```)
 
 
 3. Deploy on heroku
