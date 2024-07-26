@@ -35,9 +35,9 @@
 CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
  - FORK THE REPL THEN HIT RUN BUTTON
 
-  ###### <summary>Through Termux</summary>
+  ###### <summary>THROUGH Termux</summary>
   CLICK HERE. [`TRMX`](href='https://github.com/Mwtutech/mwtu-sessions)
-
+-FOLLOW THE STEPS CAREFULLY TO GET SESSION ID VIA TERMUX
 
 
   
