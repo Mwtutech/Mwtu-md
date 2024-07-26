@@ -31,13 +31,12 @@
 
 2. Get Session ID (By pairing code)
    
-###  <summary>RUN REPL</summary>
+# <summary>Through REPL</summary>
  - CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
  - FORK THE REPL THEN HIT RUN BUTTON
 
-  Via Termux
-  <a
-  href='https://github.com/Mwtutech/mwtu-sessions'
+  # <summary>Through Termux</summary>
+  -CLICK HERE [`SENSION ID TRMX`](href='https://github.com/Mwtutech/mwtu-sessions)
   
   3. Deploy on heroku
     <br>
