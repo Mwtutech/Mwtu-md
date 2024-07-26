@@ -31,10 +31,10 @@
 
 2. Get Session ID (By pairing code)
    > [`OUTPUT`]
-   > [REPLIT [`OUTPUT`]
-   > RUN RPL
+  [
+   > [RUN RPL]
      <a href='https://replit.com/@mistarkelvin/mwtu-sessions?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
--TERMUX [ RUN VIA TERMUX.[`OUTPUT`] ]
+[-TERMUX [ RUN VIA TERMUX.[`OUTPUT`] ]
 [
 - Here's Termux [`OUTPUT`](https://github.com/mwtutech/mwtu-sessions/blob/main/screenshots/output-demo.jpg)
 
