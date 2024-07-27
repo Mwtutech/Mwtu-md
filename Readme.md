@@ -37,7 +37,7 @@ CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
 
   ###### <summary>THROUGH Termux</summary>
   CLICK HERE.[`TRMX`](https://github.com/Mwtutech/mwtu-sessions)
-  
+  [TERMUX TUTORIAL](https://youtu.be/8MklSNNMnUw?si=5057ChkvAPmKt8Wc)
    - FOLLOW THE STEPS CAREFULLY
 
 
