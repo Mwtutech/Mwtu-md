@@ -4,7 +4,7 @@
   "website": "https://mwtu-scanner.onrender.com/",
   "repository": "https://github.com/Mwtutech/Mwtu-md",
   "logo": "https://telegra.ph/file/cc6f595431b134c1d7a46.jpg",
-  "keywords": ["mwtu-md", "mwtutech", "mwtu"],
+  "keywords": ["Mwtu-md", "mwtutech", "mwtu", "MWTU-MD", "Mwtu Tech"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": { 
