@@ -1,24 +1,24 @@
 {
   "name": "mwtu-md",
   "version": "0.0.0",
-  "description": "Mwtu multi device whatsapp bot",
+  "description": "A multi device whatsapp bot",
   "main": "./mwtukvn/mwtukvn.js",
   "type": "module",
-  "engines" : { "node": "v20.15.0", "npm": "10.8.1" },
+  "engines" : { "node": "v20.15.1", "npm": "10.8.2" },
   "scripts": {
-    "start": "pm2 start mwtukvn/mwtukvn.js --deep-monitoring --attach --name mwtu",
+    "start": "pm2 start mwtukvn/mwtukvn.js --deep-monitoring --attach --name mwtukvn",
     "stop": "pm2 stop mwtukvn",
     "restart": "pm2 restart mwtukvn"
   },
   "keywords": ["mwtu-md", "whatsapp-bot", "mwtu-tech"],
-  "author": "Mwtu Tech",
+  "author": "Gifted Tech",
   "license": "GNU",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google/generative-ai": "^0.9.0",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "git+https://github.com/mwtutech/Mwtu-Baileys.git",
+    "@whiskeysockets/baileys": "git+https://github.com/mouricedevs/Gifted-Baileys.git",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.8.3",
     "aptoide-scraper": "^1.0.1",
@@ -68,21 +68,21 @@
     "translate-google-api": "^1.0.4",
     "uuid": "^9.0.1",
     "yt-search": "^2.11.0",
-    "ytdl-core": "^4.11.5"
+    "ytdl-core": "github:mouricedevs/ytdl-core#main"
    },
      "directories": {
-      "lib": "mwtu",
-      "plugins": "mwtukvn/cmds"
+      "lib": "gift",
+      "plugins": "gifted/cmds"
    },
    "devDependencies": {
       "pino": "^7.0.5"
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Mwtutech/Mwtu-Md.git"
+      "url": "git+https://github.com/mouricedevs/Gifted-Md.git"
    },
    "bugs": {
       "url": "https://github.com/Mwtutech/Mwtu-Md/issues"
    },
-   "homepage": "https://github.com/Mwtutech/Mwtu-Md#readme"
+   "homepage": "https://github.com/Mwtutech/mwtu-Md#readme"
 }
