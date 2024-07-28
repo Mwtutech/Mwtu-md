@@ -1,6 +1,6 @@
 {
   "name": "mwtu-md",
-  "version": "2.0.0",
+  "version": "0.0.0",
   "description": "Mwtu multi device whatsapp bot",
   "main": "./mwtukvn/mwtukvn.js",
   "type": "module",
