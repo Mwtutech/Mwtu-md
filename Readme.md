@@ -134,3 +134,5 @@ Enjoy Bot features of the *MWTU-MD*  to enhance your Whatsapp more enjoyable
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 --------
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto70&pause=1000&color=F753E4&multiline=true&width=1000&lines=Visit+my+account+Ig+%2Ctelegram+%40mwtuofficial+" alt="Typing SVG" /></a>
