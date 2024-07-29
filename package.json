@@ -1,14 +1,14 @@
 {
   "name": "mwtu-md",
   "version": "0.0.0",
-  "description": "A multi device whatsapp bot",
+  "description": "multi device whatsapp bot",
   "main": "./mwtukvn/mwtukvn.js",
   "type": "module",
   "engines" : { "node": "v20.15.1", "npm": "10.8.2" },
   "scripts": {
     "start": "pm2 start mwtukvn/mwtukvn.js --deep-monitoring --attach --name mwtu",
-    "stop": "pm2 stop mwtukvn",
-    "restart": "pm2 restart mwtu"
+    "stop": "pm2 stop gifted",
+    "restart": "pm2 restart gifted"
   },
   "keywords": ["mwtu-md", "whatsapp-bot", "mwtu-tech"],
   "author": "Mwtu Tech",
@@ -18,7 +18,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google/generative-ai": "^0.9.0",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "git+https://github.com/mouricedevs/Gifted-Baileys.git",
+    "@whiskeysockets/baileys": "git+https://github.com/mwtutech/mwtu-Baileys.git",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.8.3",
     "aptoide-scraper": "^1.0.1",
@@ -82,7 +82,7 @@
       "url": "git+https://github.com/mouricedevs/Gifted-Md.git"
    },
    "bugs": {
-      "url": "https://github.com/Mwtutech/Mwtu-Md/issues"
+      "url": "https://github.com/mwtutech/Mwtu-Md/issues"
    },
-   "homepage": "https://github.com/Mwtutech/mwtu-Md#readme"
+   "homepage": "https://github.com/Mwtutech/Mwtu-Md#readme"
 }
