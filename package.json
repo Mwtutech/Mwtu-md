@@ -6,7 +6,7 @@
   "type": "module",
   "engines" : { "node": "v20.15.1", "npm": "10.8.2" },
   "scripts": {
-    "start": "pm2 start mwtukvn/mwtukvn.js --deep-monitoring --attach --name mwtukvn",
+    "start": "pm2 start mwtukvn/mwtukvn.js --deep-monitoring --attach --name gifted",
     "stop": "pm2 stop mwtukvn",
     "restart": "pm2 restart mwtukvn"
   },
