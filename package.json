@@ -6,9 +6,9 @@
   "type": "module",
   "engines" : { "node": "v20.15.1", "npm": "10.8.2" },
   "scripts": {
-    "start": "pm2 start mwtukvn/mwtukvn.js --deep-monitoring --attach --name gifted",
+    "start": "pm2 start mwtukvn/mwtukvn.js --deep-monitoring --attach --name mwtu",
     "stop": "pm2 stop mwtukvn",
-    "restart": "pm2 restart mwtukvn"
+    "restart": "pm2 restart mwtu"
   },
   "keywords": ["mwtu-md", "whatsapp-bot", "mwtu-tech"],
   "author": "Gifted Tech",
