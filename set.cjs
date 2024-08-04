@@ -1,4 +1,4 @@
-// GIFTED TECH //
+// MWTU TECH //
 const fs = require("fs");
 require("dotenv").config();
 
