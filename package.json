@@ -17,7 +17,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google/generative-ai": "^0.9.0",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "git+https://github.com/mwtutech/mwtu-Baileys.git",
+    "@whiskeysockets/baileys": "git+https://github.com/mouricedevs/gifted-Baileys.git",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.6.9",
     "aptoide-scraper": "^1.0.1",
