@@ -1,10 +1,10 @@
 {
-  "name": "mwtu-md@v2",
+  "name": "mwtu-md@v0.0.0",
   "description": "I am Mwtu-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
   "website": "https://mwtu-scanner.onrender.com/",
-  "repository": "https://github.com/Mwtutech/Mwtu-md",
+  "repository": "https://github.com/mwtutech/mwtu-md",
   "logo": "https://telegra.ph/file/cc6f595431b134c1d7a46.jpg",
-  "keywords": ["mwtu-md", "Mwtu-Md", "MWTU TECH"],
+  "keywords": ["mwtu-md", "mwtutech", "Mwtu-Md"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": { 
@@ -21,7 +21,17 @@
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": false,
-      "value": "254716490732"
+      "value": "254110853827"
+    },
+    "AUTO_STICKER": {
+      "description": "Put true/false to enable auto conversion of videos and photos as stickers",
+      "required": false,
+      "value": "false"
+    },
+    "SESSION_ID": {
+      "description": "Put your SESSION_ID.  Must start with Gifted~",
+      "required": false,
+      "value": ""
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -61,7 +71,7 @@
     "AUTO_DOWNLOAD": {
       "description": "Put true if you need to download media by using link without cmd",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_BLOCK": {
       "description": "Put true if you want bot to auto block only 212 numbers",
@@ -97,14 +107,13 @@
     "formation": {
                 "web": {
                         "quantity": 1,
-                        "size": "Standard-2X"
+                        "size": "Standard-1X"
                 }
         },
     "addons": [{ "plan": "heroku-postgresql:essential-0" }],
     "buildpacks": [
     {"url": "https://github.com/heroku/heroku-buildpack-nodejs#latest"},
-    {"url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"},
     {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"},
     {"url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"}
   ]
-    }
+}
