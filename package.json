@@ -79,8 +79,8 @@
     "yt-search": "^2.11.0"
       },
      "directories": {
-      "lib": "gift",
-      "plugins": "gifted/cmds"
+      "lib": "mwtu",
+      "plugins": "mwtukvn/cmds"
    },
    "devDependencies": {
       "pino": "^7.0.5"
