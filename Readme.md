@@ -40,7 +40,7 @@ CLICK HERE.[`REPLIT`](https://replit.com/@mistarkelvin/Mwtu-Md-paircode?s=app)
   [TERMUX TUTORIAL](https://youtu.be/8MklSNNMnUw?si=5057ChkvAPmKt8Wc)
    - FOLLOW THE STEPS CAREFULLY
 
-###### CREDS Joson</summary>
+###### CREDS Json</summary>
    CLICK HERE.[`CREDS JSON`](https://replit.com/@mistarkelvin/Mwtu-md-creds-pair?s=app)
   
   
