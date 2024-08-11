@@ -32,7 +32,7 @@
 2. Get Session ID (By pairing code)
    
 ###### <summary>TROUGH REPL</summary>
-CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
+CLICK HERE.[`REPLIT`](https://replit.com/@mistarkelvin/Mwtu-Md-paircode?s=app)
  - FORK THE REPL THEN HIT RUN BUTTON
 
   ###### <summary>THROUGH Termux</summary>
@@ -40,7 +40,8 @@ CLICK HERE.[`REPL`](https://replit.com/@mistarkelvin/mwtu-sessions?v=1)
   [TERMUX TUTORIAL](https://youtu.be/8MklSNNMnUw?si=5057ChkvAPmKt8Wc)
    - FOLLOW THE STEPS CAREFULLY
 
-
+###### CREDS Joson</summary>
+   CLICK HERE.[`CREDS JSON`](https://replit.com/@mistarkelvin/Mwtu-md-creds-pair?s=app)
   
   
   3. Deploy on heroku
